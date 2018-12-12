@@ -1,2 +1,2 @@
-# panyb123.git.io
+# panyb123.github.io
 个人主页
